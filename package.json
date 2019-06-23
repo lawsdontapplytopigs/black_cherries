@@ -1,0 +1,10 @@
+{
+    "name": "black_cherries",
+    "version": "0.1",
+    "repository": "git@github.com:lawsdontapplytopigs/black_cherries.git",
+    "author": "Adrian Juganaru <lawsdontapplytopigs@gmail.com>",
+    "license": "MIT",
+    "vim": {
+        "opt": true
+    }
+}
