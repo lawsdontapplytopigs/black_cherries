@@ -1,14 +1,11 @@
 
-![Yeah, I'm dead, but 5G is so fast tho](preview.png)
-
 # Black Cherries
 So dark it'll turn syntactic sugar into carbon
-
+![Yeah, I'm dead, but 5G is so fast tho](preview.png)
 
 # Description
 Official repository of the "black cherries" color scheme.
 I hope you like it!
-
 
 ## Installation
 * Take the file from the "colors" folder and put it into "~/.vim/colors/"
