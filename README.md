@@ -21,5 +21,8 @@ And then things should be ok. If colors look way weird or something, it
 may be because you're using the 16-colors version of vim. If that's the
 case, you may want to check this out [link](https://github.com/morhetz/gruvbox/wiki/Terminal-specific)
 
+## Contributions and ports
+Pull requests and ports welcome!
+
 ## License
 [MIT/X11](https://opensource.org/licenses/MIT)
