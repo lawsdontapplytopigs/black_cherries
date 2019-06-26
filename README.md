@@ -1,6 +1,6 @@
 
 # Black Cherries
-So dark it'll turn syntactic sugar into carbon
+So dark it'll turn syntactic sugar into carbon  
 ![Yeah, I'm dead, but 5G is so fast tho](preview.png?raw=true "Black Cherries colorscheme")
 
 # Description
